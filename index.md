@@ -16,7 +16,9 @@ I am a passionate and experienced educator with 8 years in a variety of differen
 
 ### Certifications
 
-Standard Professional I Teaching Cerificate Grades 1 - 6 through the state of Maryland with Ancillary Credits in: Special
+Standard Professional I Teaching Cerificate Grades 1 - 6 through the state of Maryland 
+<br>
+Ancillary Credits: Special
 Education and Reading 12
  
  
