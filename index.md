@@ -37,8 +37,8 @@ Facebook,
 Instagram, 
 Twitter, 
 Later,  
-Wix, 
-Acrobat DC, 
+Wix, and 
+Acrobat DC
 
 
 
