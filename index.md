@@ -59,6 +59,9 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/emily-plack-68698a90).
   
   
   
+  ### Maya Angelou
+
+<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
   
   
 ### Yay!
