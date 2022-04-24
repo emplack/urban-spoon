@@ -9,7 +9,7 @@
 
 
 
-I am a passionate and experienced educator with 8 years in a variety of different instructional settings from public and private K-12 schools to corporate trainning and even outdoor education. I graduated with a Bachelor's of Science from Towson University with coursework in <b> <i>instructional technology, eductional theory, building curriculum, creating accurate assessments, and culturally responsive instruction</i> </b>. My passion for education goes beyond my place of work, I am often learning new things and developing more knowledge of my passions in conservationism, yoga, local and federal politics, as well as, modern psychology. 
+I am a passionate and experienced educator with 8 years in a variety of different instructional settings from public and private K-12 schools to corporate trainning and even outdoor education. I graduated with a Bachelor's of Science from Towson University with coursework in <b> <i>instructional technology, eductional theory, building curriculum, creating accurate assessments, and culturally responsive instruction</i> </b>. I am a life long learner and enjoy educating myself on my hobbies in conservationism, yoga, local and federal politics, as well as, modern psychology. 
 
 ### Certifications
 
@@ -56,9 +56,12 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/emily-plack-68698a90).
 ![image](https://user-images.githubusercontent.com/102634328/164992795-1cdb1e14-b641-4a24-8849-45142bf28535.png) 
   
   
-### Jekyll Themes
+  
+  
+  
+### Yay!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emplack/urban-spoon/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You made it to the bottom! Your reward is 1 embarrassing fact about me: My first experience with HTML was customizing my Tumblr theme for my personal blog in 2012.
 
 ### Connect with me
 
