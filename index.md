@@ -2,8 +2,8 @@
 
 <body>
 
-<h2><span></span>Emily Plack</h2>
-  <p>Educator</p>
+<h2><span></span>Educator</h2>
+  
 </body>
 </html>
 
