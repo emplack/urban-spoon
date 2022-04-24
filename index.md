@@ -35,6 +35,8 @@ Twitter,
 Later, 
 Dropbox, 
 Trello, 
+Wix, 
+Acrobat DC, 
 
 
 
@@ -45,8 +47,8 @@ Trello,
 
 HTML,
 Google Ads, 
-Adobe, 
-Articulate, 
+InDesign, and 
+Articulate
 
 
 
@@ -63,6 +65,3 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/emily-plack-68698a90).
 
 You made it to the bottom! Your reward is 1 embarrassing fact about me: My first experience with HTML was customizing my Tumblr theme for my personal blog in 2012.
 
-### Connect with me
-
-Add me or [Linkedin](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
