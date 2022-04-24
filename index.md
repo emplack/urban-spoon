@@ -58,7 +58,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/emily-plack-68698a90).
   
   
   
-  ### Maya Angelou
+  <b>Maya Angelou</b>
 
 <i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
   
@@ -83,5 +83,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/emily-plack-68698a90).
   
 ### Yay!
 
-You made it to the bottom! Your reward is 1 embarrassing fact about me: My first experience with HTML was customizing my Tumblr theme for my personal blog in 2012.
+You made it to the bottom! 
+<br>
+Your reward is 1 embarrassing fact about me: My first experience with HTML was customizing my Tumblr theme for my personal blog in 2012.
 
