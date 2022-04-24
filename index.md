@@ -3,17 +3,51 @@
 <body>
 
 <h2><span></span>Emily Plack</h2>
-  <p> Educator </p>
+  <p>Educator</p>
 </body>
 </html>
 
 
 
-With experience in education for 8 years in a variety of different settings from K-12 schools, corporate trainning, and even outdoor education. I graduated with a Bachelor's of Science from Towson University with coursework in instructional technology, eductional theory, building curriculum, creating accurate assessments, and culturally responsive instruction. 
+I am a passionate and experienced educator with 8 years in a variety of different instructional settings from public and private K-12 schools to corporate trainning and even outdoor education. I graduated with a Bachelor's of Science from Towson University with coursework in <b> <i>instructional technology, eductional theory, building curriculum, creating accurate assessments, and culturally responsive instruction</i> </b>. My passion for education goes beyond my place of work, I am often learning new things and developing more knowledge of my passions in conservationism, yoga, local and federal politics, as well as, modern psychology. 
 
-### Markdown
+### Certifications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Standard Professional I Teaching Cerificate Grades 1 - 6 through the state of Maryland with Ancillary Credits in: Special
+Education and Reading 12
+ 
+ 
+Certified Enneagram Coach (through <i>Your Enneagram Coach</i>)
+
+### Proficient In:
+
+G Suite,
+MS Office, 
+Canva,
+Zapier,
+Calendly, 
+Slack, 
+Zoom, 
+TikTok, 
+Facebook, 
+Instagram, 
+Twitter, 
+Later, 
+Dropbox, 
+Trello, 
+
+
+
+
+
+
+### Building Proficiency In:
+
+HTML,
+Google Ads, 
+Adobe, 
+Articulate, 
+
 
 ```markdown
 Syntax highlighted code block
