@@ -49,27 +49,13 @@ Adobe,
 Articulate, 
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-Emily Plack
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/emily-plack-68698a90).
 
+
+![image](https://user-images.githubusercontent.com/102634328/164992795-1cdb1e14-b641-4a24-8849-45142bf28535.png) 
+  
+  
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emplack/urban-spoon/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
