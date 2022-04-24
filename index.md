@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+<html>
 
-You can use the [editor on GitHub](https://github.com/emplack/urban-spoon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2><span></span>Emily Plack</h2>
+  <p> Educator </p>
+</body>
+</html>
+
+
+
+With experience in education for 8 years in a variety of different settings from K-12 schools, corporate trainning, and even outdoor education. I graduated with a Bachelor's of Science from Towson University with coursework in instructional technology, eductional theory, building curriculum, creating accurate assessments, and culturally responsive instruction. 
 
 ### Markdown
 
@@ -12,6 +19,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+Emily Plack
 ## Header 2
 ### Header 3
 
