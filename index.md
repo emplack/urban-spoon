@@ -9,10 +9,10 @@
 
 
 
-I am a passionate and experienced educator with 8 years in a variety of different instructional settings from public and private K-12 schools to corporate trainning and even outdoor education. I graduated with a Bachelor's of Science from Towson University with coursework in <b> <i>instructional technology, eductional theory, building curriculum, creating accurate assessments, and culturally responsive instruction</i> </b>. I am a life long learner and enjoy educating myself on my hobbies in conservationism, yoga, local and federal politics, as well as, modern psychology. 
-<br>
-<br>
-<br>
+I am a passionate and experienced educator with 8 years in a variety of different instructional settings from public and private K-12 schools to corporate trainning and even outdoor education. I graduated with a Bachelor's of Science from Towson University with coursework in <b> <i>instructional technology, eductional theory, building curriculum, creating accurate assessments, and culturally responsive instruction</i> </b>. I am a life long learner and enjoy educating myself on my hobbies in conservationism, yoga, local and federal politics, as well as, modern psychology.  <br /><br /><br />
+
+
+<p>
 
 ### Certifications
 
@@ -22,11 +22,13 @@ Ancillary Credits: Special
 Education and Reading 12
  
  
-Certified Enneagram Coach (through <i>Your Enneagram Coach</i>)
-<br>
-<br>
-<br>
+Certified Enneagram Coach (through <i>Your Enneagram Coach</i>)  <br /><br /><br />
+  
+</p>
 
+<p>
+<blockquote>
+  
 ### Proficient In:
 
 G Suite,
@@ -39,7 +41,7 @@ Twitter,
 Later,  
 Wix, and 
 Acrobat DC
-
+ 
 
 
 ### Building Proficiency In:
@@ -48,21 +50,31 @@ HTML,
 Google Ads, 
 InDesign, and 
 Articulate
-
+ </blockquote>
+ </p>
+ 
 <br>
 <br>
 <br>
 
-Connect with me on [Linkedin](https://www.linkedin.com/in/emily-plack-68698a90).
 
+<p>
+  <b> Resume </b>
+ 
+  [Download My Resume Here.pdf](https://github.com/emplack/urban-spoon/files/8628063/Emily.Plack.Resume.May3.2022.pdf)
+
+
+</p>
 
 ![image](https://user-images.githubusercontent.com/102634328/164992795-1cdb1e14-b641-4a24-8849-45142bf28535.png) 
   
   
   
+Connect with me on [Linkedin](https://www.linkedin.com/in/emily-plack-68698a90).<br /><br /><br />
+  
   <b>Maya Angelou</b>
 
-<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
+<i>"Success is liking yourself, liking what you do, and liking how you do it."</i> <br /><br /><br /> <br /><br /> <br /> <br /> <br /> <br />
   
   <br>
   <br>
