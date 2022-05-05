@@ -60,8 +60,11 @@ Articulate
 
 <p>
   <b> Resume </b>
+  <br>
+  
+[Emily Plack Resume May3 2022.pdf](https://github.com/emplack/urban-spoon/files/8628141/Emily.Plack.Resume.May3.2022.pdf)
  
-  [Download My Resume Here.pdf](https://github.com/emplack/urban-spoon/files/8628063/Emily.Plack.Resume.May3.2022.pdf)
+  
 
 
 </p>
