@@ -58,11 +58,6 @@ Articulate
 <br>
 
 
-
-  <b> Resume </b>
-  
-  
-[Emily Plack Resume May3 2022.pdf](https://github.com/emplack/urban-spoon/files/8628141/Emily.Plack.Resume.May3.2022.pdf)
  
   
 
