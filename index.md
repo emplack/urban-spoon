@@ -14,7 +14,7 @@ I am a passionate and experienced educator with 8 years in a variety of differen
 
 <p>
 
-### Certifications
+  <b> Certifications </b>
 
 Standard Professional I Teaching Cerificate Grades 1 - 6 through the state of Maryland 
 <br>
@@ -29,7 +29,7 @@ Certified Enneagram Coach (through <i>Your Enneagram Coach</i>)  <br /><br /><br
 <p>
 <blockquote>
   
-### Proficient In:
+  <b> Proficient In: </b>
 
 G Suite,
 MS Office, 
@@ -44,7 +44,7 @@ Acrobat DC
  
 
 
-### Building Proficiency In:
+  <b> Building Proficiency In: </b>
 
 HTML,
 Google Ads, 
