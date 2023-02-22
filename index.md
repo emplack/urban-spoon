@@ -2,24 +2,23 @@
 
 <body>
 
-<h2><span></span>Educator</h2>
+<h2><span></span>Marketing Specialist</h2>
   
 </body>
 </html>
 
 
 
-I am a passionate and experienced educator with 8 years in a variety of different instructional settings from public and private K-12 schools to corporate trainning and even outdoor education. I graduated with a Bachelor's of Science from Towson University with coursework in <b> <i>instructional technology, eductional theory, building curriculum, creating accurate assessments, and culturally responsive instruction</i> </b>. I am a life long learner and enjoy educating myself on my hobbies in conservationism, yoga, local and federal politics, as well as, modern psychology.  <br /><br /><br />
+As a marketing professional currently in a social media specialist role, I am passionate about helping businesses effectively reach and engage with their target audience online. My expertise includes creating and implementing social media strategies, developing engaging content, managing social media accounts, analyzing metrics and data to measure success, and staying up-to-date with the latest trends and best practices in social media marketing. I have a proven track record of increasing social media engagement to drive sales. With my strong communication and analytical skills, I am confident in my ability to create impactful social media campaigns that can drive business growth and success.n</i> </b>. I am a life long learner and enjoy educating myself on my hobbies in conservationism, yoga, as well as, modern psychology.  <br /><br /><br />
 
 
 <p>
 
   <b> Certifications </b> <br />
 
-Standard Professional I Teaching Cerificate Grades 1 - 6 through the state of Maryland 
+Hubspot
 <br>
-Ancillary Credits: Special
-Education and Reading 12
+Hootsuite
  
  
 Certified Enneagram Coach (through <i>Your Enneagram Coach</i>)  <br /><br /><br />
@@ -31,6 +30,8 @@ Certified Enneagram Coach (through <i>Your Enneagram Coach</i>)  <br /><br /><br
   
   <b> Proficient In: </b>
 
+Premier Pro,
+Hootsuite,
 G Suite,
 MS Office, 
 Canva,
