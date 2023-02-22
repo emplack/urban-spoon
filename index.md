@@ -19,7 +19,7 @@ As a marketing professional currently in a social media specialist role, I am pa
 Hubspot
 <br>
 Hootsuite
- 
+ <br>
  
 Certified Enneagram Coach (through <i>Your Enneagram Coach</i>)  <br /><br /><br />
   
