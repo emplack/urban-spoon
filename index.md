@@ -11,7 +11,7 @@
 
 As a marketing professional currently in a social media specialist role, I am passionate about helping businesses effectively reach and engage with their target audience online. My expertise includes creating and implementing social media strategies, developing engaging content, managing social media accounts, analyzing metrics and data to measure success, and staying up-to-date with the latest trends and best practices in social media marketing. I have a proven track record of increasing social media engagement to drive sales. With my strong communication and analytical skills, I am confident in my ability to create impactful social media campaigns that can drive business growth and success. 
 
-</b> A little bit about myself is I am a life long learner and enjoy educating myself on my hobbies in conservationism, yoga, as well as, modern psychology.  <br /><br /><br />
+A little bit about myself is I am a life long learner and enjoy educating myself on my hobbies in conservationism, yoga, as well as, modern psychology.  <br /><br /><br />
 
 
 <p>
