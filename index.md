@@ -42,17 +42,17 @@ Facebook,
 Instagram, 
 Twitter, 
 Later,  
-Wix, and 
+Wix, Premiere Pro and 
 Acrobat DC
  
-
+<br>
 
   <b> Building Proficiency In: </b>
 
 HTML,
-Google Ads, 
-InDesign, and 
-Articulate
+Google Ads, and 
+InDesign 
+
  </blockquote>
  </p>
  
