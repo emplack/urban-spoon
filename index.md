@@ -2,56 +2,33 @@
 
 <body>
 
-<h2><span></span>Marketing Specialist</h2>
+<h2><span></span>Educator</h2>
   
 </body>
 </html>
 
 
 
-As a marketing professional currently in a social media specialist role, I am passionate about helping businesses effectively reach and engage with their target audience online. My expertise includes creating and implementing social media strategies, developing engaging content, managing social media accounts, analyzing metrics and data to measure success, and staying up-to-date with the latest trends and best practices in social media marketing. I have a proven track record of increasing social media engagement to drive sales. With my strong communication and analytical skills, I am confident in my ability to create impactful social media campaigns that can drive business growth and success. 
+Highly skilled curriculum development professional with a strong background in education and a passion for creating engaging and impactful learning experiences. Extensive experience in designing and implementing curriculum materials for diverse student populations. Proven ability to collaborate with subject matter experts, conduct research, and incorporate best practices to develop comprehensive and effective educational content. Skilled in data analysis and assessment to track student progress and implement targeted interventions. Excellent communication and collaboration abilities, with a focus on fostering a positive and inclusive learning environment. Maryland State Teaching License with ancillary credits in Special Education and Reading 12.
 
 A little bit about myself is I am a life long learner and enjoy educating myself on my hobbies in conservationism, yoga, as well as, modern psychology.  <br /><br /><br />
 
 
 <p>
 
-  <b> Certifications </b> <br />
+<blockquote>  <b> Education </b> 
 
-Hubspot
+Bachelor of Science: Elementary Education from <i>Towson University </i>
 <br>
-Hootsuite
- <br>
- 
-Certified Enneagram Coach (through <i>Your Enneagram Coach</i>)  <br /><br /><br />
+  <br> <b>Additional Coursework + Certifications</b> <br>
+Elementary Education K-6 Maryland State Teaching License <br>
+Ancillary Credits: Special Education and Reading 12 <br>
+Articulate Storyline Essentials Training <br>
+Foundations of Accessible Elearning <br>
+How to Research and Write Using Generative AI Tools <br>
+Leading Change: Go Beyond Gamification with Gameful Learning  <br /><br /><br />
   
-</p>
 
-<p>
-<blockquote>
-  
-  <b> Proficient In: </b>
-
-Premier Pro,
-Hootsuite,
-G Suite,
-MS Office, 
-Canva,
-TikTok, 
-Facebook, 
-Instagram, 
-Twitter, 
-Later,  
-Wix, Premiere Pro and 
-Acrobat DC
- 
-<br>
-
-  <b> Building Proficiency In: </b>
-
-HTML,
-Google Ads, and 
-InDesign 
 
  </blockquote>
  </p>
